@@ -1,7 +1,7 @@
-- 👋 Sup, I’m @Zieg1er
-- 👀 I’m interested in video games like For Honor and Overwatch
+- 👋 Sup, I’m Ziegler but yall can call me Zig
+- 👀 I’m interested in video games like Metroidvania and RPGs, sometimes Roguelike
 - 🌱 I’m currently learning how to create games
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: Discord *Ziegl1er*
+- 📫 How to reach me: Discord *subatomic_overdrive*
 - 😄 Pronouns: He\Him, She\Her, what is the difference?
-- ⚡ Fun fact: i  know a lot about history
+- ⚡ Fun fact: May the force guide you
